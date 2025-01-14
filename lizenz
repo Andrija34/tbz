@@ -1,0 +1,37 @@
+# Lizenz – Erklärungen und Hintergrundinformationen
+
+## Aufgabe 1: Erklären Sie das Wort Lizenz. Was bedeutet das?
+Eine Lizenz ist eine offizielle Erlaubnis oder Berechtigung, die es einer Person oder Organisation erlaubt, ein bestimmtes Recht oder eine bestimmte Aktivität auszuüben. Im Kontext von Software handelt es sich oft um die Erlaubnis, ein Programm unter definierten Bedingungen zu nutzen, zu kopieren, zu ändern oder weiterzugeben.
+
+## Aufgabe 2: Warum kommt man auf die Idee, Lizenzen zu schaffen?
+Lizenzen werden geschaffen, um Rechte an geistigem Eigentum zu schützen und die Nutzung und Verbreitung zu kontrollieren. Sie helfen:
+- Die Urheber zu schützen und sicherzustellen, dass sie angemessen entlohnt werden.
+- Den rechtlichen Rahmen für die Nutzung zu klären.
+- Den Missbrauch oder die unautorisierte Nutzung von Ressourcen zu verhindern.
+- Klarheit für Unternehmen und Nutzer über die Bedingungen der Nutzung zu schaffen.
+
+## Aufgabe 3: Worauf gibt es alles Lizenzen ausser für Software?
+Lizenzen gibt es in vielen Bereichen, unter anderem:
+- **Musik, Filme und Bücher:** Urheberrechte regeln die Nutzung und Verbreitung.
+- **Marken und Patente:** Schutz von Logos, Designs oder technischen Erfindungen.
+- **Fahrzeuge:** Führerschein für den Betrieb eines Fahrzeugs.
+- **Gewerbliche Tätigkeiten:** Geschäftslizenzen und Genehmigungen.
+- **Medizin und Recht:** Berufs- und Praxislizenzen.
+- **Technologien:** Nutzungsrechte an Hardware oder wissenschaftlichen Entwicklungen.
+
+## Aufgabe 4: Machen Sie eine Aufzählung von Lizenzmodellen
+Es gibt eine Vielzahl von Lizenzmodellen, die speziell auf Software oder andere Produkte abgestimmt sind. Einige Beispiele sind:
+
+1. **Pro-Gerät-Lizenz:** Lizenz pro installiertem Gerät.
+2. **Pro-Benutzer-Lizenz:** Lizenz, die an einen bestimmten Benutzer gebunden ist.
+3. **Volumenlizenz:** Für mehrere Benutzer in einem Unternehmen.
+4. **Subscription-Modell (Abonnement):** Nutzung auf Basis einer regelmäßigen Gebühr (z. B. monatlich oder jährlich).
+5. **Open-Source-Lizenz:** Freie Nutzung, oft mit der Bedingung, Änderungen am Code zu veröffentlichen (z. B. GNU GPL).
+6. **Freemium-Lizenz:** Basisversion ist kostenlos, erweiterte Funktionen sind kostenpflichtig.
+7. **Floating License:** Lizenz, die zwischen mehreren Benutzern geteilt wird, jedoch nur eine bestimmte Anzahl von gleichzeitigen Nutzungen erlaubt.
+8. **Hardware-gebundene Lizenz:** Lizenz, die an ein bestimmtes Gerät gekoppelt ist.
+
+### Quellen:
+- [Aagon Blog über Software-Lizenzmodelle](https://www.aagon.com/blog/software-lizenzmodelle)
+- [Lizenzdirekt - Expertenwissen](https://www.lizenzdirekt.com/expertenwissen/software-lizenzmodelle)
+- [Thales Group - Software License Models](https://cpl.thalesgroup.com/de/software-monetization/software-license-models)
