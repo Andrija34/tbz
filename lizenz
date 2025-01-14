@@ -35,3 +35,33 @@ Es gibt eine Vielzahl von Lizenzmodellen, die speziell auf Software oder andere 
 - [Aagon Blog über Software-Lizenzmodelle](https://www.aagon.com/blog/software-lizenzmodelle)
 - [Lizenzdirekt - Expertenwissen](https://www.lizenzdirekt.com/expertenwissen/software-lizenzmodelle)
 - [Thales Group - Software License Models](https://cpl.thalesgroup.com/de/software-monetization/software-license-models)
+
+## Aufgabe 5: Was bedeutet "open source" und was kann man mit solcher Software machen?
+"Open Source" bedeutet, dass der Quellcode einer Software öffentlich zugänglich ist. Benutzer können:
+- Den Code einsehen und verstehen.
+- Die Software kostenlos nutzen.
+- Änderungen am Code vornehmen und ihn an ihre Bedürfnisse anpassen.
+- Die angepasste Software weitergeben, oft unter der Bedingung, dass der neue Quellcode ebenfalls veröffentlicht wird.
+
+Open-Source-Software fördert Transparenz, Zusammenarbeit und Innovation.
+
+## Aufgabe 6: Was ist der Unterschied zwischen "copyright" und "copyleft"?
+- **Copyright:**
+  - Ein rechtlicher Schutz, der dem Urheber das ausschließliche Recht gibt, zu entscheiden, wie und ob sein Werk genutzt, kopiert oder verbreitet wird.
+  - Dritte benötigen eine Genehmigung, um das Werk zu verwenden.
+
+- **Copyleft:**
+  - Eine spezifische Art der Lizenzierung, die sicherstellt, dass abgeleitete Werke unter den gleichen Lizenzbedingungen wie das Original verbreitet werden müssen.
+  - Fördert die freie Weitergabe und Modifikation von Inhalten, solange die gleichen Freiheiten bestehen bleiben.
+
+## Aufgabe 7: Welches Lizenz-Modell wird angewendet, wenn man:
+
+1. **Im App-Store eine zu bezahlende App herunterlädt und installiert?**
+   - Meistens handelt es sich um eine **pro-Benutzer-Lizenz** oder ein **Subscription-Modell**, bei dem Sie für die Nutzung der App einmalig oder regelmäßig zahlen.
+
+2. **Im App-Store eine Gratis-App herunterlädt und installiert?**
+   - Häufig wird ein **Freemium-Modell** angewendet, bei dem die Basisversion kostenlos ist und zusätzliche Funktionen kostenpflichtig sind.
+
+3. **Haben Sie die Software bezahlt, als Sie Ihr aktuelles Smartphone gekauft/bekommen haben?**
+   - Die vorinstallierte Software ist in der Regel im Kaufpreis des Smartphones enthalten. Man zahlt indirekt dafür. Zusätzliche Kosten können durch In-App-Käufe oder Abonnements entstehen.
+
