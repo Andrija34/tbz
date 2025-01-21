@@ -11,6 +11,3 @@ Willkommen in meinem Lernportfolio! Hier dokumentiere ich meine Lernfortschritte
 
 ## Nutzung
 Dieses Repository dient dazu, meinen Lernprozess transparent zu machen und mit meiner Lehrperson zu teilen. Feedback und Anregungen sind willkommen!
-
-## Lizenz
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
